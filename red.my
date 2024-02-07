@@ -1,0 +1,20 @@
+https://hackware.ru/?p=1766
+routersploit
+> use scanners/autopwn
+> show options
+> set target 172.20.15.101
+> run
+
+
+www.palemoon.org/download.shtml                
+https://addons.palemoon.org/language-packs/
+about:config + general.useragent.locale  ru-RU
+http://pale-moon.ru/articles/2-rusifikaciia.html
+https://serfock.ru/browser/cat-palemoon/setup-rus-palemoon
+https://github.com/gorhill/uBlock-for-firefox-legacy/releases
+https://github.com/anticensority/runet-censorship-bypass/releases/
+runet-censorship-bypass-0.0.1.56-full-rc0.zip
+https://github.com/anticensority/runet-censorship-bypass
+wget https://github.com/anticensority/runet-censorship-bypass/releases/download/0.0.1.53-rc0/runet-censorship-bypass-0.0.1.56-full-rc0.zip
+https://serfock.ru/browser/cat-palemoon/setup-rus-palemoon
+https://softobase.com/ru/article/instrukciya-po-rusifikacii-brauzera-pale-moon
